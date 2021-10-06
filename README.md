@@ -30,7 +30,7 @@ is used to store combos frequencies.
 Time complexity: O( k * (n^2) )
 Space complexity: O(n^2) - to store items as vertexes, edges and weights
 
-To run web server, execute:
+To run and test the solution, execute:
 ```bash
 python time_efficient.py
 ```
